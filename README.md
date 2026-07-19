@@ -7,10 +7,12 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
 | ------- |
@@ -19,6 +21,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Array
 |  |
 | ------- |
@@ -31,4 +34,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->

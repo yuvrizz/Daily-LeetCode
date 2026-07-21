@@ -32,6 +32,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -45,4 +46,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->

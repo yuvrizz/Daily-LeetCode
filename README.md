@@ -70,9 +70,14 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

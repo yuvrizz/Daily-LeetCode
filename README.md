@@ -39,6 +39,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 | [1486-xor-operation-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -85,4 +86,12 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

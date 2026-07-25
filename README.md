@@ -41,6 +41,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -80,4 +81,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

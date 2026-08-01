@@ -35,6 +35,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -105,6 +106,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |

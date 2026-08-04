@@ -48,6 +48,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |

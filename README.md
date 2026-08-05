@@ -44,6 +44,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3866-first-unique-even-element) |
+| [3895-count-digit-appearances](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3895-count-digit-appearances](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
 | ------- |

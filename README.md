@@ -36,6 +36,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0041-first-missing-positive) |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
@@ -87,6 +88,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0133-clone-graph) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

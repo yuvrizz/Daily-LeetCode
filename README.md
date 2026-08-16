@@ -47,6 +47,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -92,6 +93,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0041-first-missing-positive](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0133-clone-graph) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -113,6 +115,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0072-edit-distance](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -155,6 +158,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Simulation
 |  |
 | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Prefix Sum
 |  |

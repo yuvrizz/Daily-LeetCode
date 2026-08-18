@@ -67,6 +67,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3895-count-digit-appearances](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
@@ -142,6 +143,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0494-target-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
 | ------- |

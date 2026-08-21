@@ -57,6 +57,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -136,6 +137,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
@@ -190,4 +192,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

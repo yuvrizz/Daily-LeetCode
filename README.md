@@ -37,6 +37,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [0039-combination-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0041-first-missing-positive) |
+| [0063-unique-paths-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
@@ -138,6 +139,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
@@ -196,4 +198,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->

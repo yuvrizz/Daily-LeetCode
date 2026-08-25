@@ -53,6 +53,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3866-first-unique-even-element](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3866-first-unique-even-element) |
@@ -103,6 +104,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3866-first-unique-even-element) |
 ## Counting

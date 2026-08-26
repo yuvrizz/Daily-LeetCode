@@ -47,6 +47,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0494-target-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -64,6 +65,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -138,6 +140,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -215,4 +218,24 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0064-minimum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

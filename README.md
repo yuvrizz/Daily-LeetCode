@@ -45,6 +45,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -139,6 +140,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
@@ -229,6 +231,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |

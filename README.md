@@ -41,6 +41,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0064-minimum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -140,6 +141,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -223,6 +225,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -231,11 +234,13 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |

@@ -52,6 +52,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -146,6 +147,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
@@ -222,6 +224,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0064-minimum-path-sum) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +240,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -246,4 +250,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->

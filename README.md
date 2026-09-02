@@ -62,6 +62,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3866-first-unique-even-element](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3345-smallest-divisible-digit-product-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3875-construct-uniform-parity-array-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |

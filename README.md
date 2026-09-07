@@ -56,6 +56,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -190,6 +191,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Greedy
 |  |
 | ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation

@@ -11,6 +11,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0210-course-schedule-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,4 +278,12 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->

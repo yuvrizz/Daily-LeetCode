@@ -60,6 +60,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -121,6 +122,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3866-first-unique-even-element) |
@@ -212,6 +214,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -286,4 +289,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

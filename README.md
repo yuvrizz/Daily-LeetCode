@@ -127,6 +127,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
@@ -152,6 +153,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
 | ------- |

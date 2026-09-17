@@ -59,6 +59,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -209,6 +210,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Simulation
 |  |
 | ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Prefix Sum
@@ -254,6 +256,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0835-image-overlap](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0835-image-overlap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Divide and Conquer
 |  |
 | ------- |

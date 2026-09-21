@@ -53,6 +53,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1089-duplicate-zeros](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -146,6 +147,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1089-duplicate-zeros](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |

@@ -57,6 +57,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -126,6 +127,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0133-clone-graph](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -224,6 +226,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
@@ -248,6 +251,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -298,6 +302,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bucket Sort
 |  |
 | ------- |

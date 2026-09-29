@@ -9,6 +9,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0133-clone-graph](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -18,6 +19,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0133-clone-graph](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -316,10 +318,12 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |

@@ -115,6 +115,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -161,6 +162,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -196,6 +198,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0064-minimum-path-sum) |
@@ -340,5 +343,6 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
@@ -330,6 +331,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -337,6 +339,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |

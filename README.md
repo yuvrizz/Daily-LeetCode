@@ -71,6 +71,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -199,6 +200,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
@@ -234,6 +236,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -310,6 +313,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
@@ -325,6 +329,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |

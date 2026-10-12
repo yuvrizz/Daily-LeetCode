@@ -13,6 +13,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0210-course-schedule-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1302-deepest-leaves-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1302-deepest-leaves-sum) |
@@ -26,6 +27,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0210-course-schedule-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1302-deepest-leaves-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1302-deepest-leaves-sum) |
@@ -343,6 +345,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -352,6 +355,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion

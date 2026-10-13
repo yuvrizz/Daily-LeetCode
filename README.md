@@ -82,6 +82,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3866-first-unique-even-element](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3866-first-unique-even-element) |
@@ -206,6 +207,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -243,6 +245,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |

@@ -8,6 +8,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [0101-symmetric-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -205,6 +206,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -363,6 +365,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0101-symmetric-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
@@ -377,6 +380,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0101-symmetric-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0226-invert-binary-tree) |
@@ -393,6 +397,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

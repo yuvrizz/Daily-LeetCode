@@ -72,6 +72,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1089-duplicate-zeros](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1122-relative-sort-array) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -243,6 +244,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0516-longest-palindromic-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
@@ -314,6 +316,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0063-unique-paths-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0835-image-overlap) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |

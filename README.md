@@ -61,6 +61,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -238,6 +239,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0120-triangle](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0494-target-sum) |
@@ -354,6 +356,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -425,4 +428,8 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

@@ -66,6 +66,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0347-top-k-frequent-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0518-coin-change-ii) |
@@ -110,6 +111,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0062-unique-paths](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -217,6 +219,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |

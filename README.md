@@ -78,6 +78,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -256,6 +257,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1143-longest-common-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1463-cherry-pickup-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
@@ -329,6 +331,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0835-image-overlap](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0835-image-overlap) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3665-twisted-mirror-path-count](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3665-twisted-mirror-path-count) |

@@ -103,6 +103,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3731-find-missing-elements) |
@@ -271,6 +272,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |

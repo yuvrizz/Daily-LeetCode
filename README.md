@@ -139,6 +139,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -293,6 +294,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
 |  |
 | ------- |

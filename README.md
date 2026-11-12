@@ -100,6 +100,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2778-sum-of-squares-of-special-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3665-twisted-mirror-path-count) |

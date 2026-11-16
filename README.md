@@ -220,6 +220,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -303,6 +304,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3498-reverse-degree-of-a-string) |

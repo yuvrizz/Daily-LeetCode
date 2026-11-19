@@ -96,6 +96,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -248,6 +249,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -295,6 +297,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

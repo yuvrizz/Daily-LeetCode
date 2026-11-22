@@ -220,6 +220,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |

@@ -84,6 +84,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -131,6 +132,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [0973-k-closest-points-to-origin](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -317,6 +319,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -478,4 +481,12 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yuvrizz/Daily-LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yuvrizz/Daily-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

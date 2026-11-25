@@ -3,7 +3,6 @@
  */
 Array.prototype.last = function() {
     
-
     let n = this.length;
 
     if(n == 0){
@@ -11,7 +10,6 @@ Array.prototype.last = function() {
     }
 
     return this[n-1];
-    
 };
 
 /**

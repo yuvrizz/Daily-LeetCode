@@ -142,6 +142,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -313,6 +314,7 @@ My LeetCode problem-solving archive starting 18th June, 2026.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/yuvrizz/Daily-LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3360-stone-removal-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/yuvrizz/Daily-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Prefix Sum
